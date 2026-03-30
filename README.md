@@ -14,18 +14,9 @@
 
 **适用场景：** 已购买 VMiss 或 DMIT 服务器，想通过干净的海外 IP 访问 Claude / ChatGPT 等 AI 工具。
 
-## 购买 VPS
-
-推荐两个服务商（以下为推广链接，对你没有额外费用）：
-
-| 服务商 | 价格 | 备注 |
-|--------|------|------|
-| **[VMiss](https://app.vmiss.com/aff.php?aff=4686)** | $5 / 月起 | 自用推荐，IP 质量好，线路选择多 |
-| [DMIT](https://www.dmit.io/aff.php?aff=19146) | $9.9 / 月起 | 备选，稳定性好 |
-
 ## 前置要求
 
-- 已购买 VPS
+- 已购买 VPS，推荐 [VMiss](https://app.vmiss.com/aff.php?aff=4686)（$5/月起）或 [DMIT](https://www.dmit.io/aff.php?aff=19146)（$9.9/月起）
 - 已安装 [Claude Code](https://claude.ai/code)
 - Mac / Linux，或 Windows 用户见下方说明
 
@@ -108,3 +99,7 @@ vps-vpn-setup/
 ## License
 
 MIT
+
+---
+
+如果本项目对你有帮助，购买 VPS 时可以用我的推广链接，对你没有额外费用：[VMiss](https://app.vmiss.com/aff.php?aff=4686) · [DMIT](https://www.dmit.io/aff.php?aff=19146)
