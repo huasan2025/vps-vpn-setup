@@ -102,4 +102,7 @@ MIT
 
 ---
 
-如果本项目对你有帮助，购买 VPS 时可以用我的推广链接，对你没有额外费用：[VMiss](https://app.vmiss.com/aff.php?aff=4686) · [DMIT](https://www.dmit.io/aff.php?aff=19146)
+如果本项目对你有帮助，购买 VPS 时可以用我的推广链接，对你没有额外费用：
+
+- VMiss：https://app.vmiss.com/aff.php?aff=4686
+- DMIT：https://www.dmit.io/aff.php?aff=19146
