@@ -23,7 +23,7 @@
 ## 安装
 
 ```bash
-claude skill install https://github.com/huasan2025/vps-vpn-setup
+claude skill install https://github.com/huasanai/vps-vpn-setup
 ```
 
 或手动复制 `skill/` 目录到 `~/.claude/skills/vps-vpn-setup/`。
@@ -74,7 +74,7 @@ wsl --install
 ssh -i C:\Users\你的用户名\.ssh\id_rsa.pem root@服务器IP
 ```
 
-但 skill 的自动化菜单交互（expect 部分）仍然需要 WSL。如果不想装 WSL，可以参考[原始教程](https://github.com/huasan2025/vps-vpn-clash-setup)手动完成服务端配置，Clash 客户端部分 Windows 和 Mac 完全一样。
+但 skill 的自动化菜单交互（expect 部分）仍然需要 WSL。如果不想装 WSL，可以参考[原始教程](https://github.com/huasanai/vps-vpn-clash-setup)手动完成服务端配置，Clash 客户端部分 Windows 和 Mac 完全一样。
 
 ## 目录结构
 
@@ -86,7 +86,7 @@ vps-vpn-setup/
 
 ## 关联教程
 
-这个 skill 基于教程：[用干净 IP 访问 Claude：VPS + VPN + Clash 完整配置教程](https://github.com/huasan2025/vps-vpn-clash-setup)
+这个 skill 基于教程：[用干净 IP 访问 Claude：VPS + VPN + Clash 完整配置教程](https://github.com/huasanai/vps-vpn-clash-setup)
 
 如果 skill 的自动化步骤失败，可以参考原始教程手动完成。
 
